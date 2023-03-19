@@ -41,6 +41,9 @@ const patrickHamer = {
 ```
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick655321&show_icons=true"/>
+
+
 
  
 <!--
