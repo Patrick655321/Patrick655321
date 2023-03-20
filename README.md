@@ -27,8 +27,8 @@ as well as having now had experince with:
  in a more administrative/testing context.
 
 ### **Where am I headed?**
-I was told early on that when you graduate you ahve three choices. You can go and get a job that provides great mentoring, really interesting work or substantial money. At best you can two out of three.
-That is the order of my priorities for now. While I have learned a lot I know that there is still a long road to travel and I a looking for a role that will help me learn not just the code but the processes and problem solving abilities that are required to be an exceptional developer.  
+I was told early on that when you graduate you ahve three choices. You can go and get a job that provides great mentoring, really interesting work or substantial money. At best you can get two out of three.
+in any case, that is the order of my priorities for now: learning, cool projects, cash-money. While I have learned a lot I know that there is still a long road to travel and I a looking for a role that will help me learn not just the code but the processes and problem solving abilities that are required to be an exceptional developer.  
 Of course interesting work is a bonus if I can get it.
 Money will come. It always does eventually.
 
