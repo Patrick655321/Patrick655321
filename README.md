@@ -6,18 +6,25 @@ It seems like only a few months ago I was sitting with a coffee, contemplating w
 </p>
 
 ### **Where have I been?**
-I have spent the last 18 odd years working in hospitality, making a career out of making people have a good time. This is probably the most relevant aspect of my former career: I genuinely care about making sure people have the best experience possible. I began a Full Stack Web Development bootcamp in March 2022 and throughout that time have learned a lot not only about coding, but about source control, project management and task delegation methodology.
+I have spent the last 18 odd years working in hospitality, making a career out of making people have a good time. This is probably the most relevant aspect of my former career: I genuinely care about making sure people have the best experience possible. I began a Full Stack Web Development bootcamp in March 3022 and throughout that time have learned a lot not only about coding, but about source control, project management and task delegation methodology.
 This bootcamp admittedly tested not only my sincereity but my overall grit. At stages throughout I was working 3 jobs _plus_ volunteering at a local community kitchen. It has certainly been a ride but now, diploma in hand, I am free to extricate myself from these circumstances and pursue coding full-time.
 
 ### **Where a I now?**
  No more teachers, no more books! It's autonomous learning form here on as well as practice, practice, practice. I'm currently educated in:  
- - HTML/CSS
- - Python (inc. Flask)
- - Javascript (inc. React, Express, mongoose)
- - NodeJS (inc Jest, Supertest)
- - PostgreSQL
- - MongoDB
-as well as having now had experince with VSCode, Postman, Trello and Github in a more administrative/testing context.
+ - <img src="./images/icons/html5.png" alt="HTML5 logo" height=30><img src="./images/icons/css3.png" alt="CSS3 logo" height=30> HTML/CSS
+ - <img src="./images/icons/python.png" alt="Python logo" height=30><img src="./images/icons/flask.png" alt="Flask logo" height=30>Python (inc. Flask)
+ - <img src="./images/icons/javaScript.png" alt="Javascript logo" height=30><img src="./images/icons/react.png" alt="React logo" height=30><img src="./images/icons/express.png" alt="Express logo" height=30><img src="./images/icons/mongoose.png" alt="Mongoose logo" height=30>Javascript (inc. React, Express, mongoose)
+ - <img src="./images/icons/nodejs.png" alt="NodeJS logo" height=30><img src="./images/icons/jest.png" alt="Jest logo" height=30>NodeJS (inc Jest, Supertest)
+ - <img src="./images/icons/psql.png" alt="PSQL logo" height=30>PostgreSQL
+ - <img src="./images/icons/mongodb.png" alt="Mongo DB logo" height=30> MongoDB  
+
+as well as having now had experince with:
+- <img src="./images/icons/vscode.png" alt="VS Code logo" height=30>VSCode
+- <img src="./images/icons/postman.png" alt="Postman logo" height=30>Postman
+- <img src="./images/icons/trello.png" alt="Trello logo" height=30>Trello 
+- <img src="./images/icons/github.png" alt="Github logo" height=30>Github
+
+ in a more administrative/testing context.
 
 ### **Where am I headed?**
 I was told early on that when you graduate you ahve three choices. You can go and get a job that provides great mentoring, really interesting work or substantial money. At best you can two out of three.
